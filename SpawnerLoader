@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://luaris.onrender.com/luaris/files/scripts/loaders/EggReroll"))()
+loadstring(game:HttpGet("https://luaris.onrender.com/luaris/files/scripts/loaders/39be7841f51841d29b7355037bd94df7"))()
